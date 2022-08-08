@@ -1,10 +1,10 @@
-# Project: Contact book: Ruby
+# Project: Contact list: Ruby
 
-### Simple contact book developed with ruby.
+### Simple contact list developed with ruby.
 
 ## Why?
 
-### Knowing the Ruby.
+### Knowing the Ruby basis.
 
 ## What I've learned
 
