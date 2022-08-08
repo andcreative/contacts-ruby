@@ -89,5 +89,8 @@ puts "1. Contatos\n2. Adicionar Contato\n3. Ver Contato\n4. Editar Contato\n5. R
         edit_contact
     when codigo == 5
         remove_contact
+    else
+        puts "Escolha um número válido: "
+        puts "------------------------------------------"
     end
 end
