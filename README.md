@@ -12,7 +12,7 @@
 
 ## Skills Used in the Project:
 
-<img src="https://img.shields.io/badge/ruby-E45443?style=for-the-badge&logo=ruby&logoColor=white" /><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/ruby-E45443?style=for-the-badge&logo=ruby&logoColor=white" /> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" />
 
 ###
 
