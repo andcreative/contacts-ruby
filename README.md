@@ -1,6 +1,6 @@
-# Project: Contact list: Ruby
+# Project: Contact list - Ruby
 
-### Simple contact list developed with ruby.
+### Simple contact list developed with Ruby.
 
 ## Why?
 
