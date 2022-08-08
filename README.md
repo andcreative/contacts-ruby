@@ -1,4 +1,4 @@
-# Ptroject: Contact book: Ruby
+# Project: Contact book: Ruby
 
 ### Simple contact book developed with ruby.
 
